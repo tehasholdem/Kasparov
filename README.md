@@ -9,6 +9,6 @@ Kasparov is the reference full node Kaspa implementation written in Go (golang).
 
 ## What is kasparov
 
-Kasparov its experimental fork Kaspa coin with new fetures. Also main features - use CPU and GPu for mining.
+Kasparov its experimental fork Kaspa coin with new features. Main features - use CPU and GPu for mining.
 ASIC and FPGA resistant.
 
